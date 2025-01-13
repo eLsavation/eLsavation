@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**eLsavation/eLsavation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...## 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 ![Languages](https://skillicons.dev/icons?i=python,js,html,css,java,c,cpp,react,nodejs,mysql,git,docker&theme=dark)
 
@@ -54,11 +46,3 @@ Here are some ideas to get you started:
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/eLsavation/eLsavation/blob/output/github-contribution-grid-snake.svg)
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
