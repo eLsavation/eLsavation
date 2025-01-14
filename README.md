@@ -5,6 +5,21 @@
 </div>
 
 ---
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+[![GitHub Streak](https://streak-stats.vercel.app?user=eLsavation&theme=radical)](https://git.io/streak-stats)
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eLsavation/eLsavation/a6f8b5ff81a64b3f0f548181dc19b2833c6a42a1/github-contribution-grid-snake-dark.svg" />
+
+</div>
+---
+
 ### Languages & Tools:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -24,19 +39,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white&style=for-the-badge)
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-[![GitHub Streak](https://streak-stats.vercel.app?user=eLsavation&theme=radical)](https://git.io/streak-stats)
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eLsavation/eLsavation/a6f8b5ff81a64b3f0f548181dc19b2833c6a42a1/github-contribution-grid-snake-dark.svg" />
-
-</div>
----
 
 ### 🚀 Let's Collaborate!
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=eLsavation&color=brightgreen&style=flat-square)
