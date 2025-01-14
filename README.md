@@ -40,11 +40,6 @@
 ## 🐍 Snake Animation
 ![Snake animation](https://github.com/eLsavation/eLsavation/blob/output/github-contribution-grid-snake.svg)
 
-## About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [GitHub](https://github.com/eLsavation)
 
 </div>
 
