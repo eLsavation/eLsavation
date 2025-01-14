@@ -19,7 +19,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white&style=for-the-badge)
----
+
 
 ## 📊 GitHub Stats
 
