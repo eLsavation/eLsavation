@@ -1,29 +1,25 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Menjadwalkan pembaruan setiap hari
+  schedule: # Menjalankan setiap hari pada pukul 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: # Memungkinkan menjalankan manual workflow
-  push:
-    branches:
-      - output
+  workflow_dispatch: # Memungkinkan menjalankan workflow secara manual
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          github_user_name: eLsavation
+          github_user_name: eLsavation # Ganti dengan username GitHub Anda
           outputs: dist/snake.svg
 
       - name: Push Snake Animation to Output Branch
-        uses: ad-m/github-push-action@v0.6.0
+        uses: actions/upload-artifact@v3
         with:
-          branch: output
-          force: true
-          directory: dist
+          name: snake
+          path: dist/snake.svg
