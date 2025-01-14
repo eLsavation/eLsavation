@@ -1,28 +1,37 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
-  schedule: 
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *" # Setiap 12 jam
+  workflow_dispatch: # Memungkinkan menjalankan secara manual
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Debugging User Name
-        run: echo "GitHub User Name: eLsavation"  # Debugging nama pengguna
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+      - uses: cicube/github-snake-action@v2
         with:
-          github_user_name: eLsavation  # Username GitHub Anda
-          outputs: dist/snake.svg
-
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
+          github_user_name: "eLsavation" # Ganti dengan username Anda
+          # Anda bisa mengkustomisasi tampilan disini
+          # refer to https://github.com/cicube/github-snake-action#inputs
+          # outputs:
+          #   svg_out_path: dist/github-contribution-grid-snake.svg
+          #   png_out_path: dist/github-contribution-grid-snake.png
+      - uses: actions/upload-pages-artifact@v2
         with:
-          name: snake
-          path: dist/snake.svg
+          path: dist
+
+  deploy:
+    needs: generate
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
