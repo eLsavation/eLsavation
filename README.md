@@ -2,7 +2,10 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=eLsavation&color=brightgreen&style=flat-square)
 
+
 ---
+
+## 🛠️ Skills
 
 ### Languages & Tools:
 
@@ -21,8 +24,8 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?logo=alibabacloud&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white&style=for-the-badge)
-
 
 ---
 
@@ -37,7 +40,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eLsavation&theme=radical)
 
 </div>
-
 
 
 ---
