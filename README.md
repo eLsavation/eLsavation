@@ -34,11 +34,11 @@
 <div align="center">
 
 
-### Hi there 👋
 [![GitHub Streak](https://streak-stats.vercel.app?user=eLsavation&theme=radical)](https://git.io/streak-stats)
+</div>
 ![Snake animation](https://github.com/eLsavation/eLsavation/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
 
 
 ---
