@@ -35,7 +35,7 @@
 
 [![GitHub Streak](https://streak-stats.vercel.app?user=eLsavation&theme=radical)](https://git.io/streak-stats)
 </div>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eLsavation/eLsavation/refs/heads/output/github-contribution-grid-snake.gif" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eLsavation/eLsavation/a6f8b5ff81a64b3f0f548181dc19b2833c6a42a1/github-contribution-grid-snake-dark.svg" />
 
 
 ---
