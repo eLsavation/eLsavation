@@ -32,11 +32,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-# Hi there 👋
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=eLsavation&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eLsavation&show_icons=true&theme=dark)
 
+### Hi there 👋
+
+[![Statistik GitHub saya](https://github-readme-stats.vercel.app/api?username=eLsavation&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak GitHub saya](https://github-readme-streak-stats.herokuapp.com/?user=eLsavation&theme=dark)](https://git.io/streak-stats)
 ## 🐍 Snake Animation
 ![Snake animation](https://github.com/eLsavation/eLsavation/blob/output/github-contribution-grid-snake.svg)
 
