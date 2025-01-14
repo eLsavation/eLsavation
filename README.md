@@ -33,9 +33,7 @@
 
 <div align="center">
 # Hi there 👋
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=eLsavation&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eLsavation&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eLsavation&theme=dark-minimalist)](https://git.io/streak-stats)
 
 
 
