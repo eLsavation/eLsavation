@@ -33,11 +33,18 @@
 
 <div align="center">
 # Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=eLsavation&theme=dark-minimalist)](https://git.io/streak-stats)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=eLsavation&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eLsavation&show_icons=true&theme=dark)
 
+## 🐍 Snake Animation
+![Snake animation](https://github.com/eLsavation/eLsavation/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Add more sections as needed -->
+## About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [GitHub](https://github.com/eLsavation)
 
 </div>
 
