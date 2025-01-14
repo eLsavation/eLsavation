@@ -46,6 +46,3 @@
 
 ### 🚀 Let's Collaborate!
 
-Feel free to explore my repositories and contribute to projects. I'm always open to new ideas, learning opportunities, and collaborations in the field of cybersecurity!
-
-Thanks for stopping by! 😊
