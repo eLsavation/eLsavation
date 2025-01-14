@@ -32,12 +32,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+# Hi there 👋
 
-![eLsavation's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eLsavation&show_icons=true&theme=radical&hide=issues&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=eLsavation&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eLsavation&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eLsavation&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eLsavation&theme=radical)
+
+<!-- Add more sections as needed -->
 
 </div>
 
