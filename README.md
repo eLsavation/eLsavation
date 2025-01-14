@@ -40,7 +40,6 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eLsavation/eLsavation/a6f8b5ff81a64b3f0f548181dc19b2833c6a42a1/github-contribution-grid-snake-dark.svg" />
 
 </div>
----
 
 
 
