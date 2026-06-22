@@ -91,16 +91,6 @@
 
 </div>
 
-<!-- ============ RECENT ACTIVITY ============ -->
-<div align="center">
-
-## ⚡ Recent Activity
-
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <!-- ============ SNAKE ============ -->
 <div align="center">
 
