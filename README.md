@@ -53,6 +53,27 @@
 
 </div>
 
+<!-- ============ FEATURED PROJECTS ============ -->
+<div align="center">
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/eLsavation/Alert-IP-Down-Send-Message-Telegram">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=eLsavation&repo=Alert-IP-Down-Send-Message-Telegram&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/eLsavation/AutoInstallationDeploy">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=eLsavation&repo=AutoInstallationDeploy&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/eLsavation/auto-backup-and-keep-db-msyql">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=eLsavation&repo=auto-backup-and-keep-db-msyql&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/eLsavation/teneoxd-monitor">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=eLsavation&repo=teneoxd-monitor&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 <!-- ============ ACTIVITY GRAPH ============ -->
 <div align="center">
 
