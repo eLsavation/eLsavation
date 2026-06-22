@@ -33,6 +33,22 @@
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=for-the-badge)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white&style=for-the-badge)
 
+<br/><br/>
+
+### 🛡️ Security Arsenal
+
+![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?logo=fortinet&logoColor=white&style=for-the-badge)
+![pfSense](https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=for-the-badge)
+![Palo Alto](https://img.shields.io/badge/-Palo%20Alto-FA582D?logo=paloaltonetworks&logoColor=white&style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge)
+![Snort](https://img.shields.io/badge/-Snort%20IDS%2FIPS-EF0000?logo=snort&logoColor=white&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+![Splunk](https://img.shields.io/badge/-Splunk%20SIEM-000000?logo=splunk&logoColor=white&style=for-the-badge)
+![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white&style=for-the-badge)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?logo=openvpn&logoColor=white&style=for-the-badge)
+![MikroTik](https://img.shields.io/badge/-MikroTik-293239?logo=mikrotik&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge)
+
 </div>
 
 <!-- animated divider -->
@@ -50,6 +66,11 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLsavation&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=480" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eLsavation&theme=tokyonight&utcOffset=7" />
+
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eLsavation&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eLsavation&theme=tokyonight" />
 
 </div>
 
