@@ -4,7 +4,7 @@
 <!-- ============ TYPING ============ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Security+Engineer+with+a+DevOps+backbone;Firewall+%7C+WAF+%7C+IPS%2FIDS+%7C+DLP+%7C+Proxy;Linux+%7C+Cloud+%7C+Monitoring+%7C+Automation;7%2B+years+securing+%26+automating+infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Security+Engineer+with+a+DevOps+backbone;Firewall+%7C+WAF+%7C+IPS%2FIDS+%7C+DLP+%7C+Proxy;Linux+%7C+Cloud+%7C+Monitoring+%7C+Automation)](https://git.io/typing-svg)
 
 <!-- ============ SOCIAL ============ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awwalpituduh/)
