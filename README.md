@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awwalpituduh/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awwal_pituduh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmu@awwal.my.id)
+[![Website](https://img.shields.io/badge/Website-203a43?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awwal.my.id)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eLsavation)
 
 </div>
@@ -66,6 +67,39 @@
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eLsavation&theme=tokyo-night&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true&area_color=203a43" />
 
 </div>
+
+<!-- ============ METRICS (lowlighter) ============ -->
+<div align="center">
+
+## 🧮 Metrics
+
+<img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/main/metrics.plugin.isocalendar.svg" />
+
+<br/>
+
+<img height="220" src="https://raw.githubusercontent.com/eLsavation/eLsavation/main/metrics.plugin.languages.svg" />
+<img height="220" src="https://raw.githubusercontent.com/eLsavation/eLsavation/main/metrics.plugin.habits.svg" />
+
+</div>
+
+<!-- ============ 3D CONTRIBUTION ============ -->
+<div align="center">
+
+## 🧊 3D Contribution Graph
+
+<img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/main/profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
+<!-- ============ RECENT ACTIVITY ============ -->
+<div align="center">
+
+## ⚡ Recent Activity
+
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- ============ SNAKE ============ -->
 <div align="center">
