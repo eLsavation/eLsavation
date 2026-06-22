@@ -108,8 +108,7 @@
 
 ### 🐍 Contribution Snake
 
-<!-- Requires the snake GitHub Action to generate the SVG (see note). -->
-<img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/output/github-snake-dark.svg" />
+<img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
