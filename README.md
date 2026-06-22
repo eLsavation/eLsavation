@@ -1,10 +1,10 @@
 <!-- ============ HEADER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=eLsavation&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%7C%20System%20Engineer%20%7C%20Automation&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=eLsavation&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Security%20Engineer%20%7C%20DevOps%20%7C%20Infrastructure&descAlignY=56&descSize=18" />
 
 <!-- ============ TYPING ============ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+everything+with+Bash+%26+Python;Linux+%7C+Cloud+%7C+Monitoring+%7C+CI%2FCD;If+you+do+it+twice%2C+automate+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Security+Engineer+with+a+DevOps+backbone;Firewall+%7C+WAF+%7C+IPS%2FIDS+%7C+DLP+%7C+Proxy;Linux+%7C+Cloud+%7C+Monitoring+%7C+Automation;7%2B+years+securing+%26+automating+infrastructure)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,jenkins,git,nginx,apache,mysql,elasticsearch,grafana,aws,gcp&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,jenkins,git,nginx,apache,mysql,elasticsearch,grafana,vmware,aws,gcp&perline=7" />
 
 <br/><br/>
 
@@ -114,6 +114,7 @@
 ### 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/eLsavation)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hmu@awwal.my.id)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eLsavation&color=36BCF7&style=for-the-badge&label=Profile+Views)
 
