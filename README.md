@@ -1,5 +1,5 @@
 <!-- ============ HEADER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=eLsavation&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20System%20Engineer%20%7C%20Automation&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=eLsavation&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%7C%20System%20Engineer%20%7C%20Automation&descAlignY=56&descSize=18" />
 
 <!-- ============ TYPING ============ -->
 <div align="center">
@@ -7,6 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Automating+everything+with+Bash+%26+Python;Linux+%7C+Cloud+%7C+Monitoring+%7C+CI%2FCD;If+you+do+it+twice%2C+automate+it.)](https://git.io/typing-svg)
 
 </div>
+
+<!-- animated divider -->
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Rainbow%20Line.gif" />
 
 <!-- ============ TECH STACK ============ -->
 <div align="center">
@@ -24,6 +27,18 @@
 
 </div>
 
+<!-- ============ DEV QUOTE ============ -->
+<div align="center">
+
+### 💭 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<!-- animated divider -->
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Rainbow%20Line.gif" />
+
 <!-- ============ STATS ============ -->
 <div align="center">
 
@@ -38,6 +53,25 @@
 
 </div>
 
+<!-- ============ SUMMARY CARDS ============ -->
+<div align="center">
+
+### 🗂️ Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eLsavation&theme=tokyonight" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eLsavation&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eLsavation&theme=tokyonight&utcOffset=7" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eLsavation&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eLsavation&theme=tokyonight" />
+
+</div>
+
 <!-- ============ TROPHIES ============ -->
 <div align="center">
 
@@ -46,6 +80,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=eLsavation&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
+
+<!-- animated divider -->
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Rainbow%20Line.gif" />
 
 <!-- ============ ACTIVITY GRAPH ============ -->
 <div align="center">
@@ -56,8 +93,20 @@
 
 </div>
 
+<!-- ============ 3D CONTRIBUTION ============ -->
+<div align="center">
+
+### 🧊 3D Contribution Graph
+
+<!-- Requires the github-profile-3d-contrib Action to generate this SVG (see note). -->
+<img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/main/profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
 <!-- ============ SNAKE ============ -->
 <div align="center">
+
+### 🐍 Contribution Snake
 
 <!-- Requires the snake GitHub Action to generate the SVG (see note). -->
 <img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/output/github-snake-dark.svg" />
