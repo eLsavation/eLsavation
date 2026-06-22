@@ -72,12 +72,12 @@
 
 </div>
 
-<!-- ============ TROPHIES ============ -->
+<!-- ============ ANIMATED TECH STACK CARD ============ -->
 <div align="center">
 
-### 🏆 Trophies
+### ⚡ Stack at a Glance
 
-<img src="https://github-profile-trophy.vercel.app/?username=eLsavation&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&borderRadius=8&fontFamily=Fira+Code&lineHeight=20&lineCount=3&theme=github_dark&line1=python%2CPython%2C3776AB%3Bgnubash%2CBash%2C4EAA25%3Blinux%2CLinux%2CFCC624%3Bdocker%2CDocker%2C2496ED%3B&line2=jenkins%2CJenkins%2CD24939%3Bnginx%2CNginx%2C009639%3Bapache%2CApache%2CD22128%3Bmysql%2CMySQL%2C4479A1%3B&line3=amazonaws%2CAWS%2CFF9900%3Bgooglecloud%2CGCP%2C4285F4%3Belasticsearch%2CElastic%2C005571%3Bgrafana%2CGrafana%2CF46800%3B" />
 
 </div>
 
@@ -93,22 +93,18 @@
 
 </div>
 
-<!-- ============ 3D CONTRIBUTION ============ -->
-<div align="center">
-
-### 🧊 3D Contribution Graph
-
-<!-- Requires the github-profile-3d-contrib Action to generate this SVG (see note). -->
-<img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
-</div>
-
 <!-- ============ SNAKE ============ -->
 <div align="center">
 
 ### 🐍 Contribution Snake
 
-<img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eLsavation/eLsavation/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eLsavation/eLsavation/output/github-contribution-grid-snake.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/eLsavation/eLsavation/output/github-contribution-grid-snake.gif" />
+</picture>
+
+</div>
 
 </div>
 
