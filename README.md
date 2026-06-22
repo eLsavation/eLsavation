@@ -90,4 +90,4 @@
 </div>
 
 <!-- ============ FOOTER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Let's%20automate%20%26%20secure%20the%20world&fontColor=ffffff&fontSize=16&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Automate%20and%20Secure%20the%20World&fontColor=ffffff&fontSize=18&fontAlignY=70" />
