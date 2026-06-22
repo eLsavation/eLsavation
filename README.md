@@ -78,6 +78,18 @@
 <!-- animated divider -->
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Rainbow%20Line.gif" />
 
+<!-- ============ SPOTIFY ============ -->
+<div align="center">
+
+## 🎧 Now Playing
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=im4bz16yy29l5st6u2ly3wnqi&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&bar_color=36BCF7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=im4bz16yy29l5st6u2ly3wnqi&redirect=true)
+
+</div>
+
+<!-- animated divider -->
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Rainbow%20Line.gif" />
+
 <!-- ============ QUOTE + VIEWS ============ -->
 <div align="center">
 
